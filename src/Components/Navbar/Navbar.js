@@ -19,7 +19,7 @@ const Navbar = () => {
           </li>
           <li>
           {/* <i class="fa-solid fa-file-lines"></i> */}
-            <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:e493829a-68db-4e2e-b2bc-5005c190748d">Resume</a>
+            <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:8f05a31e-416e-4fe5-b898-7e01cebbe62a">Resume</a>
           </li>
           <li >
           {/* <i class="fa-solid fa-folder"></i> */}
